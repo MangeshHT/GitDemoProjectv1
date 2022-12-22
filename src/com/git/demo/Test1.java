@@ -1,15 +1,8 @@
 package com.git.demo;
 
 public class Test1 {
-	
-	public static void main(String[] args) {
-		String hungry = "no";
-		
-		if(hungry.equals("Yes")) {
-			System.out.println("Eat something");
-		}
-		else 
-			System.out.println("Don't eat");
-	}
 
+	public static void main(String[] args) {
+		System.out.println("Hello Bro Mangesh How Are You");
+	}
 }
